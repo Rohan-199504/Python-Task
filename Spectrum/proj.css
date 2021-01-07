@@ -1,0 +1,30 @@
+h1{
+font-family: 'Redressed', cursive;
+text-align: center;
+}
+
+.art{
+margin:auto;
+}
+
+td{
+ height:300px;
+ width:150px;
+ border: 7px solid white;
+}
+
+#one{
+background-color: #FFBE0B;
+}
+#two{
+background-color: #FB5607;
+}
+#three{
+background-color: #80B918;
+}
+#four{
+background-color: #FF006E
+}
+#five{
+background-color: #923357
+}
